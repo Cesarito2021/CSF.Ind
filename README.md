@@ -9,6 +9,12 @@ Cesar Alvites - University of Molise
 ## Author
 Giovanni Santopuoli - University of Molise
 
-## Acknodelledemnted
+## Acknowledgements
 This CSF-Gen app has been designed in the framework of the Forwards project https://forwards-project.eu/.
-## In progress
+## Logo
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
+  <img src="https://github.com/user-attachments/assets/8ceb07ba-c715-4c85-b1aa-ad20de6c8e22" alt="forwards_logo_png" width="200" />
+</div>
+
+## In construction
