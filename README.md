@@ -6,8 +6,6 @@ The Climate Smart Forestry (CSF) Indicators Generator (CSF-Gen) is a user-friend
 
 ## Creator and Developer
 Cesar Alvites - University of Molise 
-## Author
-Giovanni Santopuoli - University of Molise
 
 ## Acknowledgements
 This CSF-Gen app has been designed in the framework of the Forwards project https://forwards-project.eu/.
