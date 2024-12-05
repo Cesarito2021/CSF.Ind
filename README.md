@@ -8,7 +8,7 @@ The Climate Smart Forestry (CSF) Indicators Generator (CSF-Ind) is a user-friend
 Cesar Alvites - University of Molise 
 
 ## Acknowledgements
-This CSF-Gen app has been designed in the framework of the Forwards project https://forwards-project.eu/.
+This CSF-Ind app has been designed in the framework of the Forwards project https://forwards-project.eu/.
 ## Logo
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
