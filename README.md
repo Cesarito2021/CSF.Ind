@@ -1,5 +1,5 @@
-# CSF-Gen
-The Climate Smart Forestry (CSF) Indicators Generator (CSF-Gen) is a user-friendly Shiny web app designed to calculate CSF indicators using proximal data (e.g., field surveys or remote forest inventory data) at scalable levels. 
+# CSF-Ind
+The Climate Smart Forestry (CSF) Indicators Generator (CSF-Ind) is a user-friendly Shiny web app designed to calculate CSF indicators using proximal data (e.g., field surveys or remote forest inventory data) at scalable levels. 
 
 ## User Interface 
 ![pd_1](https://github.com/user-attachments/assets/4833f27e-244f-4570-b2e3-96bc67002825)
