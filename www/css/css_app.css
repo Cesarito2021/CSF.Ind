@@ -1,0 +1,57 @@
+/* Font style of CSF-Ind.app */
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('www/fonts/BrandonGrotesque-Bold.woff2') format('woff2'),
+         url('www/fonts/BrandonGrotesque-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Background color */
+.skin-blue .main-header .navbar { background-color: #003D39; }
+.content-wrapper  { background-color: #003D39 ; }
+.skin-blue .main-sidebar {background-color:#f9f6f6;!important;}
+.skin-blue .sidebar a {color: #003D39;!important;}
+.skin-blue .main-header .logo,.right-side {background-color: #003D39;}
+
+/* Page color */  
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+    background-color: #00A19A;
+}
+
+.dataTables_wrapper .dataTables_length, div.dataTables_wrapper ,div.dataTables_filter label, 
+div.dataTables_wrapper, div.dataTables_info, .dataTables_wrapper, .dataTables_filter, .dataTables_wrapper .dataTables_info, 
+.dataTables_wrapper, .dataTables_processing, .dataTables_wrapper, .dataTables_paginate,thead,tbody {
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 600px) {
+    #img {
+        width: 330px !important;
+        height: 220px !important;
+    }
+}
+
+/* Slider bar */  
+.irs--shiny .irs-bar {
+    background: #00A19A;
+    border-top: 1px solid #00A19A;
+    border-bottom: 1px solid #00A19A;
+}
+
+/* Default color 1 */
+.skin-blue .main-header .navbar, .skin-blue .main-header .logo {
+    background-color: #003D39 !important;
+}
+
+/* Default color 2 */
+.skin-blue .main-header .navbar:hover, .skin-blue .main-header .logo:hover {
+    background-color: #003D39 !important;
+}
+
+/* Bar browse download*/
+.progress-bar{background-color:#00A19A;}
+
+hr {
+    border: 2px solid #003D39;
+}
