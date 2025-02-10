@@ -15,6 +15,28 @@
 #' @import dplyr 
 #' @import shiny shinydashboard bslib DT ggplot2 GGally openxlsx ggpubr tidyverse rmarkdown gridExtra 
 #' @import shinyscreenshot rnaturalearth sf tinytex kableExtra reshape2 vegan DescTools ForestStandMetrics
+#-----------------------------------------------------------------------------
+#                   Library
+#-----------------------------------------------------------------------------
+suppressMessages(library(shiny))
+suppressMessages(library(shinydashboard))
+suppressMessages(library(bslib))
+suppressMessages(library(DT))
+suppressMessages(library(ggplot2))
+suppressMessages(library(GGally))
+suppressMessages(library(openxlsx))
+suppressMessages(library(ggpubr))
+suppressMessages(library(tidyverse))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(gridExtra))
+suppressMessages(library(shinyscreenshot))
+suppressMessages(library(rnaturalearth))
+suppressMessages(library(sf))
+suppressMessages(library(tinytex))
+suppressMessages(library(kableExtra))
+suppressMessages(library(reshape2))
+suppressMessages(library(vegan))
+suppressMessages(library(DescTools))
 options(shiny.maxRequestSize=100*(1024*1024))
 #-----------------------------------------------------------------------------
 # Countries
