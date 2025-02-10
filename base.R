@@ -2,6 +2,7 @@
 #' @title Create a Pie Chart from Categorical Data
 #' 
 #' 
+#'
 #' @description Generates a pie chart from a categorical variable in a dataset, grouping small categories if needed.
 #' 
 #' @param data A `data.frame` containing the categorical data.
