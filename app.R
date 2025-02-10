@@ -18,25 +18,19 @@
 #-----------------------------------------------------------------------------
 #                   Library
 #-----------------------------------------------------------------------------
-suppressMessages(library(shiny))
-suppressMessages(library(shinydashboard))
-suppressMessages(library(bslib))
-suppressMessages(library(DT))
-suppressMessages(library(ggplot2))
-suppressMessages(library(GGally))
-suppressMessages(library(openxlsx))
-suppressMessages(library(ggpubr))
-suppressMessages(library(tidyverse))
-suppressMessages(library(rmarkdown))
-suppressMessages(library(gridExtra))
-suppressMessages(library(shinyscreenshot))
-suppressMessages(library(rnaturalearth))
-suppressMessages(library(sf))
-suppressMessages(library(tinytex))
-suppressMessages(library(kableExtra))
-suppressMessages(library(reshape2))
-suppressMessages(library(vegan))
-suppressMessages(library(DescTools))
+# List of required packages
+required_packages <- c("shiny", "shinydashboard", "bslib", "DT", "ggplot2", "GGally", "openxlsx", 
+                       "ggpubr", "tidyverse", "rmarkdown", "gridExtra", "shinyscreenshot", 
+                       "rnaturalearth", "sf", "tinytex", "kableExtra", "reshape2", "vegan", 
+                       "DescTools", "ForestStandMetrics")
+
+# Install missing packages
+new_packages <- required_packages[!(required_packages %in% installed.packages()[, "Package"])]
+if (length(new_packages)) install.packages(new_packages)
+
+# Load the libraries
+lapply(required_packages, library, character.only = TRUE)
+
 options(shiny.maxRequestSize=100*(1024*1024))
 #-----------------------------------------------------------------------------
 # Countries
