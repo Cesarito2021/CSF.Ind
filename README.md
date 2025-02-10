@@ -80,4 +80,18 @@ After selecting the CSF pillar and indicator, the app will display the required 
 #### Run Analysis
 The CSF.Ind analysis is automatically computed once all required inputs are provided.
 
+### 📥 Installation and Usage
+Install R and RStudio (if not already installed).
+Run the following code in RStudio to launch the app:
+
+### 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### 📧 Contact
+
+For questions or feedback, please contact:
+Cesar Alvites
+Email: calvites1990@gmail.com
+GitHub: Cesarito2021
+
 ---
