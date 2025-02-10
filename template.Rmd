@@ -68,11 +68,11 @@ Although the CSF-Ind Shiny web app investigates three CSF pillars, this report f
 library(openxlsx)
 library(kableExtra)
 
-  # Read the Excel file
-url <- "https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/summary/table.xlsx"
+# Download the Excel file from the URL
+url <- "https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/www/summary/table.xlsx"
 download.file(url, destfile = "table.xlsx", mode = "wb")
 
-# Read the downloaded file
+# Read the downloaded Excel file (sheet = 1 by default)
 tab <- read.xlsx("table.xlsx", sheet = 1)
  kbl(tab,longtable = TRUE, booktabs = TRUE,align = "cccc",caption = "Climate Smart Forestry (CSF) indicators monitored by CSF-Ind Shiny web app. (*) and (**) indicates the Mitigation and Adaptation CSF Pillars")%>%
    kable_styling(full_width = F,position = "center",latex_options = c("scale_down"))%>%
