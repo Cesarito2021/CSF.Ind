@@ -1,0 +1,15 @@
+Package: CSF.Ind
+Title: Climate Smart Forestry (CSF) Indicators Generator (CSF-Ind)
+Version: 0.1.0
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: The Climate Smart Forestry (CSF) Indicators Generator
+    (CSF-Ind) is a user-friendly Shiny web app designed to calculate CSF
+    indicators using proximal data (e.g., field surveys or remote forest
+    inventory data) at scalable levels.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Authors: Cesar Alvites <calvites1990@gmail.com> [aut, cre]
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
