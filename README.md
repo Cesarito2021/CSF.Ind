@@ -17,7 +17,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
   <img src="https://github.com/user-attachments/assets/8ceb07ba-c715-4c85-b1aa-ad20de6c8e22" alt="forwards_logo_png" width="200" />
 </div>
 
-## User Interface 
+## UI CSF-Ind
 ![pd_1](https://github.com/user-attachments/assets/4833f27e-244f-4570-b2e3-96bc67002825)
 
 ### 🚀 Overview
