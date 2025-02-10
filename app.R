@@ -1,9 +1,10 @@
 # ******************************************************************************
 # This is CSF-Ind web-based app 
 # ******************************************************************************
+
 # Local source access
 source("base.R", local = TRUE) 
-# Run the application 
+# Run the Shinyapp 
 shinyApp(ui = ui, server = server, options = list(height = 1300))
 
 # ******************************************************************************

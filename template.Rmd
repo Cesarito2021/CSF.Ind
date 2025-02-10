@@ -1,5 +1,5 @@
 ---
-title: "CSF-Ind Shiny-based App: PDF Report"
+title: "CSF.Ind Shiny-based App: PDF Report"
 author: "University of Molise & Forwards (ForestWard Observatory) project"
 date: "`r Sys.Date()`"
 params:
