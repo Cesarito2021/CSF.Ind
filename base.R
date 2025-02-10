@@ -1307,14 +1307,14 @@ server <- function(input, output, session) {
   # ************************************** 
   output$CSF1 <- renderImage({
     # Return a list containing the filename
-    list(src = 'C:/Users/calvi/OneDrive/Desktop/App_Forwards/R/Logo/CSF-ciclo1.png',
+    list(src = 'https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Logo/CSF-ciclo1.png',
          width = "100%",
          height = "100%",
          alt = "Chart of good stuff")
   }, deleteFile = FALSE)
   output$CSF2 <- renderImage({
     # Return a list containing the filename
-    list(src = 'C:/Users/calvi/OneDrive/Desktop/App_Forwards/R/Logo/CSF-ciclo2.png',
+    list(src = 'https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Logo/CSF-ciclo2.png',
          width = "100%",
          height = "100%",
          alt = "Chart of good stuff")

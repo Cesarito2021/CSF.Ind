@@ -26,8 +26,8 @@ opts_chunk$set(echo = FALSE,
 ```
 
 ```{r  dodge-st, fig.show = "hold", out.width = 100}
-fig1 = "C:/Users/calvi/OneDrive/Desktop/App_Forwards/R/Logo/forwards_logo_png.png"
-fig2 = "C:/Users/calvi/OneDrive/Desktop/App_Forwards/R/Logo/unimol_logo_png.png"
+fig1 = "https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Logo/forwards_logo_png.png"
+fig2 = "https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Logo/unimol_logo_png.png"
 include_graphics(fig1)
 include_graphics(fig2)
 ```
@@ -45,7 +45,7 @@ Link GIT Framework: https://github.com/Cesarito2021/CSF-Ind.git
 
 
 ```{r  fig.show = "hold", out.width = 200,fig.cap="Climate Smart Forestry (CSF) pillars.",fig.pos="htbp"}
-fig3 = "C:/Users/calvi/OneDrive/Desktop/App_Forwards/R/Logo/csf.png"
+fig3 = "https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Logo/csf.png"
 include_graphics(fig3)
 
 ```
