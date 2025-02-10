@@ -18,7 +18,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
 </div>
 
 ## UI CSF-Ind
-![pd_1](https://github.com/user-attachments/assets/4833f27e-244f-4570-b2e3-96bc67002825)
+![Image](https://github.com/user-attachments/assets/02bd6cdf-700b-433b-bd57-93b879da943e)
 
 ### 🚀 Overview
 CSF.Ind calculates the following indicators for forest stands:
