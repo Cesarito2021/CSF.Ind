@@ -52,13 +52,14 @@ Users can select between two pillars:
 - Mitigation: Includes growing stock, carbon stock, lying deadwood, standing deadwood, and an all-deadwood option (computed using double-pair diameter measurements).
 - Adaptation: Includes 20 structural and species diversity indicators.
 Table 1: Data source for CSF.Ind.
+```R
 | Indicator                  | Input_Data                                                                 | Output_Data                                                                                                                                                               |
 |:---------------------------|:--------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **1.1_GrowingStock** (*)   | IDPlot (order number), IDTree (order number), PlotArea (m²), TreeHeight (m), TreeDiameter (cm), TreeSpecies, ForManInt. | Vol_m3_ha: Forest volume regarding the volume of stem and large branches (diam. ≥ 5cm, m³/ha), AGB_tn_ha: Aboveground biomass (tons/ha).                                  |
 | **1.2_CarbonStock** (*)    | IDPlot (order number), PlotArea (m²), StandVolume (m³/Tree), DomTreeSpecies, ForManInt. | AGB_tn_ha: Aboveground biomass (tons/ha), CS_tn_ha: Carbon Stock (tons/ha).                                                        |
 | **1.3-1.5_Lying/Deadwood** (*) | IDPlot (order number), PlotArea (m²), LengthLog (m), MinDiaLog (cm), MaxDiaLog (cm), Diameter Half-length (Dh05 cm), ForManInt. | LDT: Lying Deadwood Tree (m³/ha), CWD: Coarse Woody Debris (m³/ha), SDT: Standing Deadwood Tree (m³/ha), SNAG: Snag deadwood (m³/ha), All deadwood (m³/ha). |
 | **2.1_ForestDiversity** (**) | IDPlot (order number), IDTree (order number), PlotArea (m²), TreeHeight (m), BasalArea (m²/tree), TreeSpecies, ForManInt. | 20 Diversity Indices: Mean_dbh (mean of diameters at tree height, cm), Mean_th (mean of tree heights, m), Sum_ba (sum of basal area, m²), N_sp (number of tree species), SI_dbh (Simpson index of diameters), SH_dbh (Shannon-Weiner index of diameters), SD_dbh (standard deviation of diameters), GI_ba (Gini index of basal area), CV_ba (coefficient of variation of basal area), SD_th (standard deviation of tree heights), CI_1000 (complex index at 1000m²), SHsp (Shannon-Weiner index of tree species), SH_th (Shannon-Weiner index of tree heights), SI_sp (Simpson index of tree species), SDI (Stand Density Index), TDD (Tree Diameter Diversity), THD (Tree Height Diversity), VEm (Vertical Evenness Index), VarDH (difference of diameter and height). |
-
+```
 #### Upload Excel File
 Users can upload an Excel file (.xlsx) containing the required data for the selected CSF indicators. Refer to Table 1 in the app for the specific data requirements.
 
