@@ -30,6 +30,7 @@ if (length(new_packages)) install.packages(new_packages)
 
 # Load the libraries
 lapply(required_packages, library, character.only = TRUE)
+source("base.R", local = TRUE) 
 
 options(shiny.maxRequestSize=100*(1024*1024))
 #-----------------------------------------------------------------------------
