@@ -11,6 +11,7 @@ library(shiny)
 runGitHub(repo = "CSF.Ind", username = "Cesarito2021", ref = "main")
 ```
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
+
 ## Logo
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
@@ -19,7 +20,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
 
 ## UI CSF-Ind
 ![Image](https://github.com/user-attachments/assets/248a0329-c4d0-49f8-a673-454ca5a60690)
-Caption: A: Dashboard screen for selecting the CSF pillar.; B1-B2: Dashboard screen for the Mitigation Pillar with a representative figure for the CSF pillars; C1-C2: Dashboard screen for the Adaptation Pillar with a representative figure for the CSF pillars.
+Caption: A: Dashboard screen for selecting the CSF pillar.; B1-B2: Dashboard screen for the Mitigation and Adaptation Pillars. C1-C2: Representative images for both CSF pillars.
 ### 🚀 Overview
 CSF.Ind calculates the following indicators for forest stands:
 - Growing stock and carbon stock.
