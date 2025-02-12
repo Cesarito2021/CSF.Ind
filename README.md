@@ -25,6 +25,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
   <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
   <img src="https://github.com/user-attachments/assets/8ceb07ba-c715-4c85-b1aa-ad20de6c8e22" alt="forwards_logo_png" width="200" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiny_hex_logo.svg/170px-Shiny_hex_logo.svg.png" alt="shinyapp_logo_png" width="200" />
+  <img src="https://www.r-project.org/Rlogo.png" alt="shinyapp_logo_png" width="200" />  
 </div>
 
 
