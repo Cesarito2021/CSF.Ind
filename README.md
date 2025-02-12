@@ -21,11 +21,12 @@ For more details about the required data for the app, download the guideline doc
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
 ## Logo
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
   <img src="https://github.com/user-attachments/assets/8ceb07ba-c715-4c85-b1aa-ad20de6c8e22" alt="forwards_logo_png" width="200" />
-  <img src="https://www.jumpingrivers.com/blog/accessible-shiny-standards-wcag/featured.png" alt="forwards_logo_png" width="200" />
+  <img src="https://www.jumpingrivers.com/blog/accessible-shiny-standards-wcag/featured.png" alt="shinyapp_logo_png" width="250" />
 </div>
+
 
 ## UI CSF-Ind
 ![Image](https://github.com/user-attachments/assets/248a0329-c4d0-49f8-a673-454ca5a60690)
