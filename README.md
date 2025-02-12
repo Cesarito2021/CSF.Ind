@@ -6,13 +6,9 @@
 
 CSF.Ind is a Shiny web app that enables users to calculate CSF indicators without prior coding knowledge. To access the app, run the following code in RStudio:
 
-```R
-# How to Access the Shiny App
-To view and interact with the Shiny app, follow these steps:
-1. Open your web browser.
-2. Navigate to the following URL: [https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/)
-This will take you directly to the Shiny app where you can interact with the visualizations and data.
-```
+## How to Access the Shiny App
+To view and interact with the Shiny app, simply click the link below:
+[Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/)
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
 ## Logo
