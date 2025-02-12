@@ -10,7 +10,7 @@ CSF.Ind is a Shiny web app that enables users to calculate CSF indicators withou
 To view and interact with the Shiny app, simply click the link below:
 [Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/).
 
-To download an example dataset for computing growing stock indicators from multiple plots in the CSF.Ind web-based app, click [here (https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example.xlsx).  
+To download an example dataset for computing growing stock indicators from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example.xlsx).  
 
 To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
 
