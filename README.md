@@ -24,7 +24,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/4a9a1811-4d3f-410a-acc9-6958f944c47e" alt="unimol_logo_png" width="200" />
   <img src="https://github.com/user-attachments/assets/8ceb07ba-c715-4c85-b1aa-ad20de6c8e22" alt="forwards_logo_png" width="200" />
-  <img src="https://www.jumpingrivers.com/blog/accessible-shiny-standards-wcag/featured.png" alt="shinyapp_logo_png" width="250" />
+  <img src="https://research.qut.edu.au/qutcds/wp-content/uploads/sites/257/2022/07/rshiny.png" alt="shinyapp_logo_png" width="200" />
 </div>
 
 
