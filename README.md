@@ -8,7 +8,8 @@ CSF.Ind is a Shiny web app that enables users to calculate CSF indicators withou
 
 ## How to Access the Shiny App
 To view and interact with the Shiny app, simply click the link below:
-[Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/)
+[Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/).
+
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
 ## Logo
