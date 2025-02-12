@@ -31,7 +31,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
 </div>
 
 
-## UI CSF-Ind
+## UI CSF.Ind
 ![Image](https://github.com/user-attachments/assets/248a0329-c4d0-49f8-a673-454ca5a60690)
 Caption: A: Dashboard screen for selecting the CSF pillar.; B1-B2: Dashboard screen for the Mitigation and Adaptation Pillars. C1-C2: Representative images for both CSF pillars.
 ### 🚀 Overview
@@ -99,7 +99,7 @@ Install R and RStudio (if not already installed).
 Run the following code in RStudio to launch the app:
 
 ### 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPL3 License. See the LICENSE file for details.
 
 ### 📧 Contact
 
