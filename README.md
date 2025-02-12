@@ -9,8 +9,12 @@ CSF.Ind is a Shiny web app that enables users to calculate CSF indicators withou
 ## How to Access the Shiny App
 To view and interact with the Shiny app, simply click the link below:
 [Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/).
-To visualize the input data template for computing the CSF.Ind web-based app, click on [InputData_Template.xlsx](Data/InputData_Template.xlsx).  
-For more information about the required data for the app, refer to [InputData_GuideLine.docx](Data/InputData_GuideLine.docx).  
+
+To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
+
+For more details about the required data for the app, download the guideline document [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_GuideLine.docx).  
+
+
 
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
