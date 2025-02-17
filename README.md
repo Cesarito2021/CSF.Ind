@@ -8,22 +8,20 @@
 
 CSF.Ind is a Shiny web app that enables users to calculate CSF indicators without prior coding knowledge. To access the app, run the following code in RStudio:
 
-## How to Access the Shiny App
+## How to Access the CSF.Ind shiny App
 To view and interact with the Shiny app, simply click the link below:
 [Open Shiny App](https://d1kw4k-cesar0ivan-alvites0diaz.shinyapps.io/csf_ind_app/).
 
+## How to set Input Data for CSF.Ind
 #### Data example
-To download an example dataset for computing growing stock, forest diversity indicators from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_GS_FD.xlsx).  
-To download an example dataset for computing deadwood estimation from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_deadwood.xlsx).  
+- To download an example dataset for computing growing stock, forest diversity indicators from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_GS_FD.xlsx).  
+- To download an example dataset for computing deadwood estimation from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_deadwood.xlsx).  
 
 #### Excel Template
-To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
+- To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
 
 #### Guideline 
-For more details about the required data for the app, download the guideline document [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_GuideLine.docx).  
-
-
-
+- For more details about the required data for the app, download the guideline document [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_GuideLine.docx).  
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
 ## Logo
