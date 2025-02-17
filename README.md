@@ -34,7 +34,7 @@ Note: For a detailed description of the procedure and to view the repository, vi
 
 
 ## UI CSF.Ind
-![Image](https://github.com/user-attachments/assets/248a0329-c4d0-49f8-a673-454ca5a60690)
+![Image](https://github.com/user-attachments/assets/4e01ff7c-37f3-458a-aa3e-87a7f18d951a)
 Caption: A: Dashboard screen for selecting the CSF pillar.; B1-B2: Dashboard screen for the Mitigation and Adaptation Pillars. C1-C2: Representative images for both CSF pillars.
 ### 🚀 Overview
 CSF.Ind calculates the following indicators for forest stands:
