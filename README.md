@@ -1,7 +1,7 @@
 # CSF.Ind: Climate Smart Forestry Indicators Generator
 🌎⛰️🌳🌲 **CSF.Ind** is a user-friendly Shiny web application designed to calculate Climate Smart Forestry (CSF) indicators using proximal data (e.g., field surveys or remote forest inventory data). This tool is tailored for European forests and supports decision-making in forest management under Sustainable Forest Management (SFM) criteria.
 
-![Image](https://github.com/user-attachments/assets/9813025b-d3e7-42c2-9896-eab0f32ce009)
+![Image](https://github.com/user-attachments/assets/df9554e7-ce7f-48f9-ad9b-46aa99d2b47d)
 
 ---
 ## 📖 Background and Access
