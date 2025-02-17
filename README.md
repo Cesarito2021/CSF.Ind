@@ -15,7 +15,7 @@ To view and interact with the Shiny app, simply click the link below:
 ## How to set Input Data for CSF.Ind shiny App
 #### Data example
 - To download an example dataset for computing growing stock, forest diversity indicators from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_GS_FD.xlsx).  
-- To download an example dataset for computing deadwood estimation from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_deadwood.xlsx).  
+- To download an example dataset for computing deadwood indicator from multiple plots in the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/Example_deadwood.xlsx).  
 
 #### Excel Template
 - To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
