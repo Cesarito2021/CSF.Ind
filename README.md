@@ -51,7 +51,7 @@ The primary objective of CSF.Ind is to provide a robust and user-friendly tool f
 
 ### 📚 Reference
 The computation of CSF.Ind is based on local datasets and validated procedures. For more details, refer to the following publication:
-- Alvites, C.; Santopuoli, G.; ... Tognetti, R. (In progress). CSF.Ind: A Shiny web-based application for generating climate smart forestry indicators in European forests using proximal data. Environmental Modelling & Software.
+- Alvites, C.; Santopuoli, G.; Tognetti, R. (In progress). CSF.Ind: A Shiny web-based application for generating climate smart forestry indicators in European forests using proximal data. Environmental Modelling & Software.
 
 ### 👨‍💻 Developers
 Alvites Cesar
