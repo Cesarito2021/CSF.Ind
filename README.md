@@ -21,7 +21,7 @@ To view and interact with the Shiny app, simply click the link below:
 - To download the input data template for computing the CSF.Ind web-based app, click [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_Template.xlsx).  
 
 #### Guideline 
-- For more details about the required data for the app, download the guideline document [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_GuideLine.docx).  
+- For more details about the required data for the app, download the guideline document [here](https://raw.githubusercontent.com/Cesarito2021/CSF.Ind/main/Data/InputData_GuideLine.pdf).  
 Note: For a detailed description of the procedure and to view the repository, visit the project on GitHub. To learn how to use the app, watch the video tutorial (in progess).
 
 ## Logo
